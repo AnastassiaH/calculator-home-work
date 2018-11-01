@@ -1,0 +1,21 @@
+button{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+}
+
+input{
+    height: 50px;
+    width: 208px;
+    margin-bottom: 5px;
+    font-size: 25px;
+}
+
+.zero{
+    width: 158px;
+    margin-bottom: 3px;
+}
+
+.sqrt{
+    padding: 1px 2px;
+}
